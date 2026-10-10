@@ -7,7 +7,7 @@
 
 Novedu is free and open source, made at [HTBLA Leonding](https://www.htl-leonding.at) for schools in Austria and Europe.
 
-- 🌐 **Website:** [www.novedu.at](https://www.novedu.at)
+- 🌐 **Website:** Coming soon
 - 🚀 **App:** [app.novedu.at](https://app.novedu.at)
 - 📖 **Teacher guide:** [docs.novedu.at](https://docs.novedu.at)
 - 💻 **Source code:** [novedu-app](https://github.com/htl-leo-novedu/novedu-app)
